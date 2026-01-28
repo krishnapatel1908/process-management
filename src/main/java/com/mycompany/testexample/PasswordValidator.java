@@ -6,7 +6,7 @@ package com.mycompany.testexample;
 
 /**
  *
- * @author Krishna patel
+ * @author Krishna patel used git
  */
 /**
  This method checks if the password length is greater than or equal to 8 characters. */
@@ -68,3 +68,4 @@ public class PasswordValidator {
            return false;
        }
 }
+
